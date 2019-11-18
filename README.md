@@ -18,6 +18,8 @@ Run `yarn` and start the server
 yarn start
 ```
 
+open `http://localhost:4000/graphql` and try the api below.
+
 ### Queries
 Get all movies
 

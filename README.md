@@ -12,6 +12,12 @@ Experimental Movie Api built with:
 
 ## Usage
 
+Run `yarn` and start the server
+
+```sh
+yarn start
+```
+
 ### Queries
 Get all movies
 
